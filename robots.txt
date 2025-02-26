@@ -1,0 +1,25 @@
+User-agent: *
+# Allow all user agents to access everything
+Disallow:
+
+# Disallow crawling of specific Cloudflare challenge pages (if used)
+Disallow: /cdn-cgi/
+
+# Allow access to the main assets and pages
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /static/
+Allow: /content/
+
+# Block sensitive directories or files that shouldn't be indexed
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cgi-bin/
+
+# Block access to search results pages (to avoid duplicate content)
+Disallow: /search
+
+# Sitemap location
+Sitemap: https://www.example.com/sitemap.xml

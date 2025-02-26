@@ -1,0 +1,8 @@
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+div {
+  scroll-margin-top: 130px;
+}

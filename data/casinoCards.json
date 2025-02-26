@@ -1,0 +1,92 @@
+[
+  {
+    "icon": "/public/assets/cards/1.webp",
+    "index": 1,
+    "id": "Les_Ambassadeurs_Casino",
+    "casino": "Les Ambassadeurs Casino",
+    "bestFor": "A private exclusive experience",
+    "features": "Most opulent gaming floor and international cuisine",
+    "openDaily": "12pm - 6am"
+  },
+  {
+    "icon": "/public/assets/cards/2.webp",
+    "index": 2,
+    "id": "Manchester235",
+    "casino": "Manchester235",
+    "bestFor": "Vegas-style night out",
+    "features": "Late bars & first-class restaurant",
+    "openDaily": "24 hours open"
+  },
+  {
+    "icon": "/public/assets/cards/3.webp",
+    "index": 3,
+    "id": "Grosvenor_Casino_The_Victoria",
+    "casino": "Grosvenor Casino The Victoria",
+    "bestFor": "Traditional casino games",
+    "features": "One of the longest established casinos in the UK",
+    "openDaily": "24 hour open"
+  },
+  {
+    "icon": "/public/assets/cards/4.webp",
+    "index": 4,
+    "id": "Napoleons_Casino_Manchester",
+    "casino": "Napoleons Casino Manchester",
+    "bestFor": "Poker gaming",
+    "features": "Outstanding gaming & dining facilities",
+    "openDaily": "24 hour open"
+  },
+  {
+    "icon": "/public/assets/cards/5.webp",
+    "index": 5,
+    "id": "Genting_Casino_Bournemouth",
+    "casino": "Genting Casino Bournemouth",
+    "bestFor": "Casino tournaments",
+    "features": "Dining and drinking at reasonable prices",
+    "openDaily": "11am - 4am"
+  },
+  {
+    "icon": "/public/assets/cards/6.webp",
+    "index": 6,
+    "id": "Aspers_Casino_Newcastle",
+    "casino": "Aspers Casino Newcastle",
+    "bestFor": "A fresh drink",
+    "features": "Tempting jackpots",
+    "openDaily": "12pm - 6am"
+  },
+  {
+    "icon": "/public/assets/cards/7.webp",
+    "index": 7,
+    "id": "Victoria_Gate_Casino",
+    "casino": "Victoria Gate Casino",
+    "bestFor": "Its lively atmosphere",
+    "features": "Live shows and special events",
+    "openDaily": "24 hours open"
+  },
+  {
+    "icon": "/public/assets/cards/8.webp",
+    "index": 8,
+    "id": "Shaftesbury_Casino_West_Bromwich",
+    "casino": "Shaftesbury Casino West Bromwich",
+    "bestFor": "Classic casino games",
+    "features": "Great for poker enthusiasts",
+    "openDaily": "11am - 5am"
+  },
+  {
+    "icon": "/public/assets/cards/9.webp",
+    "index": 9,
+    "id": "Buzz_Bingo_and_the_Slots_Room_Brighton",
+    "casino": "Buzz Bingo and the Slots Room Brighton",
+    "bestFor": "Bingo sessions",
+    "features": "Vibrant atmosphere and weekly jackpots",
+    "openDaily": "11am - 12am"
+  },
+  {
+    "icon": "/public/assets/cards/10.webp",
+    "index": 10,
+    "id": "Admiral_Casino_Ayr",
+    "casino": "Admiral Casino Ayr",
+    "bestFor": "Slot machines",
+    "features": "Latest slot titles and complimentary drinks",
+    "openDaily": "24 hours open"
+  }
+]

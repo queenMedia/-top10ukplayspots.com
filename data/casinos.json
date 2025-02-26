@@ -1,0 +1,452 @@
+[
+  {
+    "index": 0,
+    "info": {
+      "id": "Les_Ambassadeurs_Casino",
+      "name": "Top Casino in Mayfair London, UK Les Ambassadeurs Casino",
+      "features": [
+        "Private members club with over 100 years of tradition",
+        "Boasting one of the most sophisticated gaming rooms in the world",
+        "Dress code may be smart, but the venue calls for the best attires",
+        "Offering the finest European and Asian cuisines",
+        "Including a smoking garden with gaming amenities"
+      ],
+      "descriptions": {
+        "mainDescription": "Located in the very heart of Mayfair, Les Ambassadeurs Casino offers one of the most luxurious gaming floors in London. Blending tradition in one of the most exclusive Georgian properties with the modern sophistication of the best casinos in the whole world. Extending its flawless quality tradition for over 100 years.",
+        "secondDescription": "Members of this private club may enjoy classic casino games such as roulette, baccarat, three card poker and blackjack. Just as well as Les Ambassadeurs’ restaurant with European, Middle Eastern, Chinese, and Indian cuisines, each presented to perfection through a variety of delectable dishes."
+      },
+      "cta": "Obtain an exclusive deal!",
+      "pricing": {
+        "starting": "£787",
+        "upTo": "£2,493"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/1-1.webp",
+        "metadata": "Casino luxury gaming"
+      },
+      {
+        "url": "/public/assets/casinos/1-2.webp",
+        "metadata": "Luxury casino"
+      },
+      {
+        "url": "/public/assets/casinos/1-3.webp",
+        "metadata": "Top casino"
+      },
+      {
+        "url": "/public/assets/casinos/1-4.webp",
+        "metadata": "Casino street view"
+      },
+      {
+        "url": "/public/assets/casinos/1-5.webp",
+        "metadata": "Casino roulette"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "info": {
+      "id": "Manchester235",
+      "name": "Top Stylish Casino in Manchester, UK Manchester235",
+      "features": [
+        "Vegas-style casino",
+        "Signature restaurant & bar",
+        "Live shows entertainment available",
+        "Hiring packages for special events available",
+        "Perfectly located in a Manchester landmark venue"
+      ],
+      "descriptions": {
+        "mainDescription": "If you are looking for a Vegas-style casino, the Manchester 235 is your venue of choice. Ideally located in the landmark Great Northern Warehouse of Manchester city, where you can play Roulette, Poker, Blackjack, slot machines and more, surrounded by its stylish atmosphere.",
+        "secondDescription": "Boasting one of the top venues in town and the UK, not only for prime gaming, but also for food and drink with its signature bars and restaurant. Not to mention Manchester235's monthly themed nights and special events that completes this venue with a comprehensive offer for your entertainment experience."
+      },
+      "cta": "Get a unique offer!",
+      "pricing": {
+        "starting": "£759",
+        "upTo": "£2457"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/2-1.webp",
+        "metadata": "Casino roulette"
+      },
+      {
+        "url": "/public/assets/casinos/2-2.webp",
+        "metadata": "Luxury restaurant"
+      },
+      {
+        "url": "/public/assets/casinos/2-3.webp",
+        "metadata": "Casino front door"
+      },
+      {
+        "url": "/public/assets/casinos/2-4.webp",
+        "metadata": "Casino table games"
+      },
+      {
+        "url": "/public/assets/casinos/2-5.webp",
+        "metadata": "Casino gaming floor"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "info": {
+      "id": "Grosvenor_Casino_The_Victoria",
+      "name": "Top Established Casino in London, UK Grosvenor Casino The Victoria",
+      "features": [
+        "Lively and vibrant atmosphere for a night out",
+        "Including classic casino tables and electronic games",
+        "Restaurant and bar serve tasty dishes and modern drinks",
+        "Regular live entertainment available",
+        "Ideally located in the heart of London town"
+      ],
+      "descriptions": {
+        "mainDescription": "The Grosvenor Victoria is one of London's favorite casinos. Renowned as \"The Vic\", this distinguished venue offers a blend of classic gaming with modern style right in the heart of the capital city. Including the classic gaming tables everyone adores and a wide range of electronic slots and live tables for your entertainment.",
+        "secondDescription": "First-timers may enjoy a free welcoming spin on its colorful roulette table and a fresh cocktail on behalf of the Vic. Its restaurant offers a diverse menu to savour, and stirs a selection of beverages at the bar, and main sporting events are screened across the casino all year long. Definitely worth visiting when in London town."
+      },
+      "cta": "Secure your slot!",
+      "pricing": {
+        "starting": "£699",
+        "upTo": "£2359"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/3-1.webp",
+        "metadata": "Casino street view"
+      },
+      {
+        "url": "/public/assets/casinos/3-2.webp",
+        "metadata": "Casino bar"
+      },
+      {
+        "url": "/public/assets/casinos/3-3.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/3-4.webp",
+        "metadata": "Casino roulette"
+      },
+      {
+        "url": "/public/assets/casinos/3-5.webp",
+        "metadata": "Casino gaming floor"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "info": {
+      "id": "Napoleons_Casino_Manchester",
+      "name": "Top Casino in the centre of Manchester, UK Napoleons Casino Manchester",
+      "features": [
+        "Boasting American Roulette, Blackjack and more classic games",
+        "International dishes served at its restaurant",
+        "Late bar available to sip fresh drinks",
+        "Hiring packages for special events available",
+        "Lounges available to enjoy sporting events"
+      ],
+      "descriptions": {
+        "mainDescription": "Napoleons boasts the right mix of gaming frolic and tasty dining at its Manchester casino for a truly unforgettable experience. Perfectly located in the city centre, this venue is a great choice for a thrilling night out. Whether you are an expert punter or an amateur, everybody is welcome at Napoleons Casino to enjoy the amenities this opulent venue has to offer.",
+        "secondDescription": "Napoleons expert chefs offer a unique fusion of much-loved classics, succulent grills, and tempting international dishes, for those looking for a fine restaurant option. And guests can enjoy local gins and more drinks at its late bar to get along through their gaming experience, or just to relax with their close ones."
+      },
+      "cta": "Book this casino!",
+      "pricing": {
+        "starting": "£679",
+        "upTo": "£2243"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/4-1.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/4-2.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/4-3.webp",
+        "metadata": "Casino restaurant"
+      },
+      {
+        "url": "/public/assets/casinos/4-4.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/4-5.webp",
+        "metadata": "Casino bar"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "info": {
+      "id": "Genting_Casino_Bournemouth",
+      "name": "Top Casino in Bournemouth, UK Genting Casino",
+      "features": [
+        "Hosting monthly slots and poker tournaments",
+        "Great choice for food & drink at reasonable prices",
+        "All guests must be 18 or older",
+        "Perfect to watch main sporting events",
+        "Loyalty or Rewards Programme available"
+      ],
+      "descriptions": {
+        "mainDescription": "Genting Casino in the coastal city of Bournemouth offers a nice range of entertainment, with a complete selection of games, a restaurant and bar, and special events, including gaming tournaments and food & drink specials. Whether you're travelling to Bournemouth for the summer beach season or you prefer the town when it's quieter, this casino is available all year round.",
+        "secondDescription": "Perfectly located in the shopping area in the centre of Bournemouth, the casino's intimate bar, lively gaming floor, and professional and friendly staff, are worth a visit for a night out. Or if you fancy a neat place to have a drink or a tasty snack, it is the perfect venue to spend with reasonable prices."
+      },
+      "cta": "Make your reservation",
+      "pricing": {
+        "starting": "£563",
+        "upTo": "£1987"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/5-1.webp",
+        "metadata": "Casino front door"
+      },
+      {
+        "url": "/public/assets/casinos/5-2.webp",
+        "metadata": "Casino electronic games"
+      },
+      {
+        "url": "/public/assets/casinos/5-3.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/5-4.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/5-5.webp",
+        "metadata": "Casino restaurant"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "info": {
+      "id": "Aspers_Casino_Newcastle",
+      "name": "Top Casino in Newcastle, UK Aspers Casino",
+      "features": [
+        "Perfectly located at Newcastle's Gate Complex",
+        "Offering the latest casino games",
+        "Including tempting jackpots",
+        "Boasting weekly live entertainment",
+        "Dedicated staff and professional croupiers"
+      ],
+      "descriptions": {
+        "mainDescription": "Sitting in the Gate Complex of Newcastle, the Aspers Casino boasts the largest selection of casino gaming in town. Dive into its stylish amenities, or just relax and sip a drink at its stylish signature bar. The Aspers' bustling atmosphere guarantees an exciting night out with its extensive array of table games, slots and live e-tables.",
+        "secondDescription": "If you are looking for the latest in table or slots gaming titles in Newcastle, with jackpots from £500 to £4000, Aspers at The Gate is the perfect venue for your entertainment. Don't miss the tasty snacks menu at its Freya's Bar and relax with its extensive wines, beers, cocktails, and spirits selection."
+      },
+      "cta": "Book a visit now!",
+      "pricing": {
+        "starting": "£559",
+        "upTo": "£1979"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/6-1.webp",
+        "metadata": "Casino bar lounges"
+      },
+      {
+        "url": "/public/assets/casinos/6-2.webp",
+        "metadata": "Casino slot machines"
+      },
+      {
+        "url": "/public/assets/casinos/6-3.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/6-4.webp",
+        "metadata": "Poker room"
+      },
+      {
+        "url": "/public/assets/casinos/6-5.webp",
+        "metadata": "Electronic roulette"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "info": {
+      "id": "Victoria_Gate_Casino",
+      "name": "Top Casino in Leeds, UK Victoria Gate Casino",
+      "features": [
+        "Over 20 tables of classic casino games",
+        "Plenty of slot machines to test your luck",
+        "Over 70 electronic games available",
+        "Offering Live shows and special events",
+        "Boasting a sports bar to watch live matches"
+      ],
+      "descriptions": {
+        "mainDescription": "Ideally located in the bustling Victoria Gate complex. If you are looking for a place with high spirits, then the Victoria Gate Casino is the place to be. Offering a large array of slot machines and gaming tables. A perfect place to chill out where its friendly atmosphere and regular live entertainment is preferred by many locals.",
+        "secondDescription": "This gaming center is considered one the Super Casino of the North! Its welcoming and helpful staff will make you feel at home with superb service. Enjoy a brilliant night-out at the Victoria Gate Casino, including regular live shows and special events to complete your entertainment experience."
+      },
+      "cta": "Secure your visit!",
+      "pricing": {
+        "starting": "£537",
+        "upTo": "£1913"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/7-1.webp",
+        "metadata": "Stylish casino"
+      },
+      {
+        "url": "/public/assets/casinos/7-2.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/7-3.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/7-4.webp",
+        "metadata": "Luxury casino"
+      },
+      {
+        "url": "/public/assets/casinos/7-5.webp",
+        "metadata": "Casino bar"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "info": {
+      "id": "Shaftesbury_Casino_West_Bromwich",
+      "name": "Top Casino in the Midlands, UK Shaftesbury Casino West Bromwich",
+      "features": [
+        "Ideal venue for Poker enthusiasts",
+        "Smart casual is welcome as dress code",
+        "A gaming staple in the Midlands since 2001",
+        "Available with hiring packages for private occasions",
+        "Offering over 20 casino games"
+      ],
+      "descriptions": {
+        "mainDescription": "Located in West Bromwich, the heart of the Midlands, Shaftesbury Casino is ideal for a night out, mid-game snack, or a tasty meal at its restaurant and bar. A local casino with a broad variety of tables, games and slots from classic Blackjack and 3 Card Poker, to modern Electronic Roulette and transportative Vegas Slots.",
+        "secondDescription": "Boasting an unparalleled gaming experience, first-class dining and live entertainment, Shaftesbury Casino has been a Midlands staple ever since 2001. Whether you're looking to enjoy a full evening meal, or a tasty snack to celebrate your casino luck, the Shaftesbury Casino Restaurant delivers a great dining experience."
+      },
+      "cta": "Obtain your offer!",
+      "pricing": {
+        "starting": "£499",
+        "upTo": "£1879"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/8-1.webp",
+        "metadata": "Casino roulette"
+      },
+      {
+        "url": "/public/assets/casinos/8-2.webp",
+        "metadata": "Casino street view"
+      },
+      {
+        "url": "/public/assets/casinos/8-3.webp",
+        "metadata": "Casino bar"
+      },
+      {
+        "url": "/public/assets/casinos/8-4.webp",
+        "metadata": "Casino e-tables"
+      },
+      {
+        "url": "/public/assets/casinos/8-5.webp",
+        "metadata": "Three card poker"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "info": {
+      "id": "Buzz_Bingo_and_the_Slots_Room_Brighton",
+      "name": "Top Bingo Club in Brighton, UK Buzz Bingo and the Slots Room",
+      "features": [
+        "Bingo paper and electronic sessions",
+        "Contactless payment method available",
+        "Dining and drink options",
+        "Hiring a private space for special events",
+        "Offering weekly specials and jackpots"
+      ],
+      "descriptions": {
+        "mainDescription": "Buzz Bingo and the Slots Room is part of the renowned franchise in the UK. It guarantees unparalleled staff service and a buzzing environment for your entertainment. Your table is waiting to join the exciting bingo play sessions and the latest slot machines with tantalizing jackpots.",
+        "secondDescription": "Perfect for a night out with friends looking to share a beer or tasty snacks in a lively and fun atmosphere for your amusement while in Brighton. The Buzz Bingo and Slots Room is a great venue offering slot machines, cuisine, drinks, live entertainment, friendly service, touchpad and paper bingo, and recurrent special promotions."
+      },
+      "cta": "Book now!",
+      "pricing": {
+        "starting": "£397",
+        "upTo": "£799"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/9-1.webp",
+        "metadata": "Slot machines"
+      },
+      {
+        "url": "/public/assets/casinos/9-2.webp",
+        "metadata": "Slot machines"
+      },
+      {
+        "url": "/public/assets/casinos/9-3.webp",
+        "metadata": "Electronic slot machines"
+      },
+      {
+        "url": "/public/assets/casinos/9-4.webp",
+        "metadata": "Bingo room"
+      },
+      {
+        "url": "/public/assets/casinos/9-5.webp",
+        "metadata": "Bingo gaming floor"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "info": {
+      "id": "Admiral_Casino_Ayr",
+      "name": "Top Slot Venue in West Scotland, Admiral Casino Ayr",
+      "features": [
+        "Opens 24-7",
+        "Complimentary free drinks available",
+        "Smart casual is welcome at the Admiral Casino",
+        "Monthly special events included",
+        "Always with attractive jackpots to obtain"
+      ],
+      "descriptions": {
+        "mainDescription": "The Admiral Casino is your right choice to enjoy a thrilling experience like no other around in western Scotland. This coastal city venue specializes in slot machines for your gaming entertainment, where its welcoming staff guarantees to treat you with the best attention to serve you exquisite drinks free of charge. Open 24-7 for non-stop excitement of slot machines gameplay.",
+        "secondDescription": "An exclusive seat is ready for you anytime to enjoy one of the most exciting venues in Scotland. Don't miss the opportunity to walk away with one of the many prizes and jackpots its extensive array of slot titles offer."
+      },
+      "cta": "Lock down your slot!",
+      "pricing": {
+        "starting": "£289",
+        "upTo": "£753"
+      }
+    },
+    "gallery": [
+      {
+        "url": "/public/assets/casinos/10-1.webp",
+        "metadata": "Casino front door"
+      },
+      {
+        "url": "/public/assets/casinos/10-2.webp",
+        "metadata": "Casino parking"
+      },
+      {
+        "url": "/public/assets/casinos/10-3.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/10-4.webp",
+        "metadata": "Casino gaming floor"
+      },
+      {
+        "url": "/public/assets/casinos/10-5.webp",
+        "metadata": "Casino gaming floor"
+      }
+    ]
+  }
+]
